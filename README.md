@@ -6,7 +6,7 @@
 | NOISEX-92 [1]   | not free| [sample](http://spib.linse.ufsc.br/noise.html) |
 | **CHiME background noise data** | not free   |    - |
 | **AURORA-2 corpus** | not free |   - |
-| **The DEMAND ** [2]  | free  |   [download](https://zenodo.org/record/1227121#.XamDaPwza3c) |
+| **The DEMAND** [2]  | free  |   [download](https://zenodo.org/record/1227121#.XamDaPwza3c) |
 | **WHAM!dataset**   | free  |   [download](http://wham.whisper.ai) |
 
 
